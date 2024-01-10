@@ -11,7 +11,7 @@ EXAMPLE:
  1511: 'kh', # Qof                                                                                                                               
                                                                                                                                                                
 You'll also have to change the final version of the letter            
-                                                                                                                                                                                                            #
+                                                                                                                                                                                                            
  1498: 'ch',# Final Chaf                                                                                                                      
  1499: 'ch',# Chaf                                                                                                                               
         ↓                                                                                                                                              
@@ -27,5 +27,5 @@ FUTURE ADDITIONS:
 
 Real words mode, where you only get real hebrew words.
 Way to learn words
-Potentially way to conjugations?
+Potentially ways to learn conjugations?
 
